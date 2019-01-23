@@ -12,3 +12,5 @@ qemu -> para crear la máquina virtual
 Sistema operativo tiene dos partes: kernel y las aplicaciones de sistema.
 
 ## Que aprendí
+
+Aprendimos a progrmar en C, a incluir libreiras, a manejar el archivo Makefile para automatizar, y a correr el sistema operativo qemu desde Linux.
