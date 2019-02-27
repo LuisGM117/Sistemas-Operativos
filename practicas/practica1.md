@@ -21,6 +21,9 @@ gcc
 
 ## ¿Qué aprendí?
 
+Aprendimos a reiniciar y apagar nuestra maquina qemu. 
+
 ## URL DEL COMMIT
 
+https://github.com/LuisGM117/Sistemas-Operativos/commit/e17782a6a2e1f4ac8834c2d2a3341ff346715bf5
 
