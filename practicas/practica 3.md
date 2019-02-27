@@ -33,3 +33,7 @@ git
 + Es el programa encargado de inicializar el so para dejarlo listo para usarse
 + Es el unico proceso que creal el SO
 
+
+#QUE APRENDÍ
+Porceso Init y modificarlo en qemu para que muestre un mensaje de bienvenida.
+#COMMIT
