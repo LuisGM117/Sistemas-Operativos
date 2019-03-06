@@ -17,6 +17,7 @@ Si hay dos o mas con prioridades iguales el primero de la lista.
 Aprendimos a programas nuestro propio planificador de procesos para qemu y ver como funcionan.
 
 ##URL DEL COMMIT:
+https://github.com/LuisGM117/Sistemas-Operativos/commit/854626b01ec6bf697cb6730b4a47505c61f499fd
 
 ## ¿Cómo se relaciona con los conceptos anteriores?
 
