@@ -33,6 +33,8 @@ git
 
 # URL DEL COMMIT
 
+https://github.com/LuisGM117/Sistemas-Operativos/commit/97b13ed4dd05715f48251442083f6d651b6f918c
+
 # ¿QUÉ APRENDÍ?
   
   +Aprendí como funcionan los hilos y usamos ejemplos en xv6-public.
