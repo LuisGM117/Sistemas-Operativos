@@ -34,3 +34,5 @@ git
 # URL DEL COMMIT
 
 # ¿QUÉ APRENDÍ?
+  
+  +Aprendí como funcionan los hilos y usamos ejemplos en xv6-public.
